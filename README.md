@@ -8,9 +8,9 @@ The notebooks follow logically along the numbered order. The unnumbered notebook
 
 * `1 - Dengue cases data cleaning.ipynb` - Cleaning, fill in missing values, etc.
 
-* `2 - Dengue cases EDA.ipynb` - Explore the feature set of weather variables
+* `2 - pickle dengue data.ipynb` - pickle cleaned data for easier loading in later notebooks.
 
-* `3 - Dengue cases EDA.ipynb` - Create a cleaned pandas DataFrame file to load from in later notebooks
+* `3 - Dengue cases EDA.ipynb` - Explore and visualize the feature set of weather variables
 
 * `4 - Predict based on months only.ipynb` - Find and plot the monthly trend
 
